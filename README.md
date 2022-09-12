@@ -41,7 +41,7 @@ My opinions are my own.
       <h3 align="center">Projeto Android</h3>
         <br />
         <a target="_blank" href="https://github.com/yasminelima/projeto-android">
-            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" width="100%" alt="PetDog Complete Website"/>
+            <img src="ZZZZZZZZZZZZZZZZZ" width="100%" alt="PetDog Complete Website"/>
         </a>
         <br />
         <p><strong>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonaura</strong></p>
