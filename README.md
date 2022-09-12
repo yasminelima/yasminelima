@@ -29,6 +29,7 @@
 My opinions are my own.
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
@@ -40,7 +41,7 @@ My opinions are my own.
     <td width="50%" valign="top">
       <h3 align="center">Projeto Android</h3>
         <br />
-        <a target="_blank" href="https://github.com/yasminelima/projeto-android">
+        <a target="_blank" href="https://yasminelima.github.io/projeto-android/">
             <img src="ZZZZZZZZZZZZZZZZZ" width="50%" alt="Android Project"/>
         </a>
         <br />
@@ -61,7 +62,7 @@ My opinions are my own.
   <a href="https://github.com/yasminelima/projeto-android" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://github.com/yasminelima/projeto-android" target="_blank">
+  <a href="https://yasminelima.github.io/projeto-android/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
