@@ -37,4 +37,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&layout=compact)](https://github.com/yasminelima/yasminelima/blob/main/README.md)
 
-<a align="center" href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"></a>
+<a align="center" href="https://www.buymeacoffee.com/yasminelimadev" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"></a>
