@@ -1,6 +1,6 @@
 # 👤 Profile 
 
-<img align="right" alt="Coding" width="300" src="/Media/woman.gif"> 
+<img align="right" alt="Coding" width="250" src="/Media/woman.gif"> 
 <img src="https://komarev.com/ghpvc/?username=yasminelima&label=Profile%20views&color=70A4FC&style=flat" alt="yasminelima" />
 
 - 🙋‍♀️ I'm **Yasmine Lima**, 31y, she/her.
@@ -71,7 +71,7 @@ My opinions are my own.
       <h3 align="center">Projeto Android</h3>
         <br />
         <a target="_blank" href="https://yasminelima.github.io/projeto-android/">
-            <img src="/Media/AndroidSite.png" width="50%" alt="Android Project"/>
+            <img src="../site-alura/Media/Site.png" width="50%" alt="Android Project"/>
         </a>
         <br />
         <p><strong>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonaura</strong></p>
