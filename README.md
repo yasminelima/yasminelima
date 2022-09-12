@@ -1,4 +1,4 @@
-<h1 align="center">Profile</h1> 
+<h1 align="left">Profile</h1> 
 
 <img align="right" alt="Coding" width="400" src="/Media/woman.gif">   
 
