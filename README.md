@@ -55,15 +55,15 @@ My opinions are my own.
       <a target="_blank" href="https://yasminelima.github.io/site-alura/"><img src="/Media/AluraSite.png" width="100%" alt="Android Project"/></a><br><br>
       <p>Barbershop themed website design created in the HTML5 and CSS3 courses at Alura</p>
       <p align="left"><strong>Technologies used</strong><br>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"><a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"><a>
       </p>
       <p align="left"><strong>IDE used</strong><br>
       <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
       </p>
       <p align="center">
-      <a href="https://github.com/yasminelima/site-alura" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>  
-      <a href="https://yasminelima.github.io/site-alura/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
+      <a href="https://github.com/yasminelima/site-alura" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"><a>  
+      <a href="https://yasminelima.github.io/site-alura/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"><a>
       </p>
     </td>
     </tr>
@@ -72,11 +72,9 @@ My opinions are my own.
 <h1>📊 GitHub Stats</h1>
   
  <img src="https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"><br>
-
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true"><br>
-
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"><br>
 
 <h1>💌 Toss a coin to your newbie dev</h1>
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yasminelimadev) [![Picpay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)](https://app.picpay.com/user/yasminealima) 
+  
+  <a href="https://buymeacoffee.com/yasminelimadev)" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"><a><a href="https://app.picpay.com/user/yasminealima" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white"><a>
