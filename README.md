@@ -70,9 +70,9 @@
 </table>
 
 <h1>📊 GitHub Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
 <h1>💌 Toss a coin to your newbie dev</h1>
   <a href="https://buymeacoffee.com/yasminelimadev" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a> <a href="https://app.picpay.com/user/yasminealima" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white"></a>
