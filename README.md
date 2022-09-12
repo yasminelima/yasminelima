@@ -25,7 +25,7 @@
 
 <h1 align="left">Contact</h1>
 
-<a href="yasminelima.dev@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" alt="Gmail" height="30" width="40" /></a></
+<a href="yasminelima.dev@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" alt="Gmail" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/yasminelimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkeIn" height="30" width="40" /></a>
 
@@ -37,4 +37,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&layout=compact)](https://github.com/yasminelima/yasminelima/blob/main/README.md)
 
-
+<a align="center" href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"></a>
