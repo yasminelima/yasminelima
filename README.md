@@ -28,7 +28,7 @@
 
 My opinions are my own.
 
-# 🌐 Projects
+# 💻 Projects
 
 <table>
     <tr>
