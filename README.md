@@ -28,12 +28,6 @@
 
 My opinions are my own.
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 # 🌐 Projects
 
 <table>
@@ -99,5 +93,12 @@ My opinions are my own.
     </tr>
 </table>
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+# 💌 Toss a coin to your newbie dev
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yasminelimadev) [![Picpay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)](https://app.picpay.com/user/yasminealima) 
