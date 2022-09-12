@@ -39,7 +39,7 @@ My opinions are my own.
 <table>
     <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Projeto Android</h3>
+      <h3 align="center">Android History</h3>
         <br />
         <a target="_blank" href="https://yasminelima.github.io/projeto-android/">
             <img src="/Media/AndroidSite.png" width="50%" alt="Android Project"/>
@@ -68,10 +68,10 @@ My opinions are my own.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Projeto Android</h3>
+      <h3 align="center">Alura's Barbershop</h3>
         <br />
         <a target="_blank" href="https://yasminelima.github.io/site-alura/">
-            <img src="../site-alura/Media/Site.png" width="50%" alt="Android Project"/>
+            <img src="/Media/AluraSite.png" width="50%" alt="Android Project"/>
         </a>
         <br />
         <p><strong>Barbershop themed website design created in the HTML5 and CSS3 courses at Alura</strong></p>
