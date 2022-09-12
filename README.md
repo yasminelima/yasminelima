@@ -28,11 +28,46 @@
 
 My opinions are my own.
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+# 🌐 Projects
+
+<table>
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Projeto Android</h3>
+        <br />
+        <a target="_blank" href="https://github.com/yasminelima/projeto-android">
+            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" width="100%" alt="PetDog Complete Website"/>
+        </a>
+        <br />
+        <p><strong>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonaura</strong></p>
+      <p align="left">
+        <strong> Technologies used </strong>
+        <br/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6" alt="css3" width="40" height="40"/> </a>
+      </p>
+      <p align="left">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/VSCode-0078D4">
+      </p>
+      <p align="center">
+          
+  <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://petdogwebsite.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    </tr>
+</table>
+
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yasminelimadev) [![Picpay](https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white)](https://app.picpay.com/user/yasminealima) 
