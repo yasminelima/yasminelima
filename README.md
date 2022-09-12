@@ -77,4 +77,4 @@ My opinions are my own.
 
 <h1>💌 Toss a coin to your newbie dev</h1>
   
-  <a href="https://buymeacoffee.com/yasminelimadev)" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"><a><a href="https://app.picpay.com/user/yasminealima" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white"><a>
+  <a href="https://buymeacoffee.com/yasminelimadev" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"><a><a href="https://app.picpay.com/user/yasminealima" target="_blank"><img src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white"><a>
