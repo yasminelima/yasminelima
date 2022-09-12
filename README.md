@@ -70,11 +70,11 @@ My opinions are my own.
     <td width="50%" valign="top">
       <h3 align="center">Projeto Android</h3>
         <br />
-        <a target="_blank" href="https://yasminelima.github.io/projeto-android/">
+        <a target="_blank" href="https://yasminelima.github.io/site-alura/">
             <img src="../site-alura/Media/Site.png" width="50%" alt="Android Project"/>
         </a>
         <br />
-        <p><strong>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonaura</strong></p>
+        <p><strong>Barbershop themed website design created in the HTML5 and CSS3 courses at Alura</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
@@ -88,10 +88,10 @@ My opinions are my own.
       </p>
       <p align="center">
           
-  <a href="https://github.com/yasminelima/projeto-android" target="_blank">
+  <a href="https://github.com/yasminelima/site-alura" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://yasminelima.github.io/projeto-android/" target="_blank">
+  <a href="https://yasminelima.github.io/site-alura/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
