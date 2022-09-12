@@ -49,13 +49,13 @@ My opinions are my own.
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26" alt="html5"> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6" alt="css3"> </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"> </a>
       </p>
       <p align="left">
         <strong> IDE used </strong>
         <br/>
-        <img src="https://img.shields.io/badge/VSCode-0078D4">
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
           
@@ -84,7 +84,7 @@ My opinions are my own.
       <p align="left">
         <strong> IDE used </strong>
         <br/>
-        <img src="https://img.shields.io/badge/VSCode-0078D4">
+        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
       </p>
       <p align="center">
           
