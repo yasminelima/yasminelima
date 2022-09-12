@@ -1,5 +1,7 @@
 #Profile 
 
+<img src="https://komarev.com/ghpvc/?username=yasminelima&label=Profile%20views&color=70A4FC&style=flat" alt="yasminelima" />
+
 <img align="right" alt="Coding" width="400" src="/Media/woman.gif">   
 
 [![](https://visitcount.itsvg.in/api?id=yasminelima&icon=0&color=6)](https://visitcount.itsvg.in)
