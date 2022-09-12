@@ -66,8 +66,7 @@ My opinions are my own.
     <td width="50%" valign="top">
       <h2 align="center">Alura's Barbershop</h2>
         <br>
-        <a target="_blank" href="https://yasminelima.github.io/site-alura/"><img src="/Media/AluraSite.png" width="50%" alt="Android Project"/></a>
-        <br>
+        <a target="_blank" href="https://yasminelima.github.io/site-alura/"><img src="/Media/AluraSite.png" width="100%" alt="Android Project"/></a><br><br>
         <p>Barbershop themed website design created in the HTML5 and CSS3 courses at Alura</p>
         <p align="left"><strong>Technologies used</strong><br>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
