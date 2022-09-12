@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="250" src="/Media/woman.gif"> 
 <img src="https://komarev.com/ghpvc/?username=yasminelima&label=Profile%20views&color=70A4FC&style=flat" alt="yasminelima" />
 
+
 - 🙋‍♀️ I'm **Yasmine Lima**, 31y, she/her.
 - 🌍 Brazilian from Salvador, Bahia. 
 - 👔 Lawyer with 6 years of experience.
@@ -37,7 +38,7 @@
     <td width="50%" valign="top">
       <h2 align="center">Android History</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/projeto-android/"><img src="/Media/AndroidSite.png" width="100%" alt="Android Project"/></a><br><br>
-      <p>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonaura</p>
+      <p>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
