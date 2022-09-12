@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasminelima&label=Profile%20views&color=BE90F2&style=flat" alt="yasminelima" /> </p>
 
-<span style="color:blue">- some *blue* text</span>.
-
 - 🙋‍♀️ I'm **Yasmine Lima**, 31y, she/her.
 - 🌍 Brazilian from Salvador, Bahia. 
 - 👔 Lawyer with 6 years of experience.
