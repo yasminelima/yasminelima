@@ -11,30 +11,36 @@
 - 💻 I’m interested in front-end.
 - 🌱 I’m currently learning **HTML,CSS and JS**.
 
-<h1 align="left">Languages and Tools</h1>
+<h1 align="left">Tech Stack</h1>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></p>
 
-<h1 align="left">Social</h1>
+<p align="left">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)</p>
+
+<h1 align="left">🌐 Socials</h1>
 
 <p align="left">
-<a href="https://twitter.com/biribimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biribimbas" height="30" width="40" /></a>
-<a href="https://instagram.com/yasmine_lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasmine_lima" height="30" width="40" /></a>
-<a href="https://discord.gg/Bimbas#6465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bimbas#6465" height="30" width="40" /></a><br></p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Bimbas#6465) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasmine_lima) [!
+
+[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasminelimadev) 
+
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bimbas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/biribimbas)<br></p>
 
 <p align="left">My opinions are my own.</p>
 
 <h1 align="left">Contact</h1>
 
-<a href="yasminelima.dev@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" alt="Gmail" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/yasminelimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkeIn" height="30" width="40" /></a>
-
-<h1 align="left">Stats</h1>
+<h1 align="left">📊 GitHub Stats</h1>
 
 [![Yasminelima's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&show_icons=true)](https://github.com/yasminelima/yasminelima/blob/main/README.md)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight" alt="yasminelima" /></p>
+![](https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&layout=compact)](https://github.com/yasminelima/yasminelima/blob/main/README.md)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=false)<br/>
 
-<a align="center" href="https://www.buymeacoffee.com/yasminelimadev" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
