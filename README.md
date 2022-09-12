@@ -42,7 +42,7 @@ My opinions are my own.
       <h3 align="center">Android History</h3>
         <br />
         <a target="_blank" href="https://yasminelima.github.io/projeto-android/">
-            <img src="/Media/AndroidSite.png" width="50%" alt="Android Project"/>
+            <img align="center" src="/Media/AndroidSite.png" width="50%" alt="Android Project"/>
         </a>
         <br />
         <p><strong>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonaura</strong></p>
