@@ -1,4 +1,4 @@
-# 👤 Profile 
+<h1>👤 Profile</h1> 
 
 <img align="right" alt="Coding" width="250" src="/Media/woman.gif"> 
 <img src="https://komarev.com/ghpvc/?username=yasminelima&label=Profile%20views&color=70A4FC&style=flat" alt="yasminelima" />
@@ -10,7 +10,7 @@
 - 💻 I’m interested in front-end.
 - 🌱 I’m currently learning **HTML,CSS and JS**.
 
-# 💻 Tech Stack
+<h1>💻 Tech Stack</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -20,17 +20,17 @@
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Gsheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-# 📩 Contact 
+<h1>📩 Contact</h1> 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yasminelimadev@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasminelimadev) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasminelima) [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/yasminelima)
 
-# 🌐 Socials
+<h1>🌐 Socials</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yasmine_lima) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/bimbas) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/biribimbas) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/Bimbas#6465) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12148149812) 
 
 My opinions are my own.
 
-# 💻 Projects
+<h1>💻 Projects </h1>
 
 <table>
     <tr>
@@ -70,6 +70,12 @@ My opinions are my own.
 </table>
 
 <h1>📊 GitHub Stats</h1>
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"><br>
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true"><br>
+
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yasminelima&theme=tokyonight&hide_border=true)<br>
