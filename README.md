@@ -17,13 +17,13 @@
 <h1 align="left">Connect with me</h1>
 
 <p align="left">
-<a href="https://linkedin.com/in/yasminelimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasminelimadev" height="30" width="40" /></a><a href="https://twitter.com/biribimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biribimbas" height="30" width="40" /></a><a href="https://instagram.com/yasmine_lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasmine_lima" height="30" width="40" /></a><a href="https://discord.gg/Bimbas#6465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bimbas#6465" height="30" width="40" /></a><br><br></p>
+<a href="https://linkedin.com/in/yasminelimadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasminelimadev" height="30" width="40" /></a><a href="https://twitter.com/biribimbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biribimbas" height="30" width="40" /></a><a href="https://instagram.com/yasmine_lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasmine_lima" height="30" width="40" /></a><a href="https://discord.gg/Bimbas#6465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bimbas#6465" height="30" width="40" /></a><br></p>
 
 <p align="left">My opinions are my own.</p>
 
 <h1 align="left">Contact</h1>
 
-<p align="left"><address>- 📩 <a href="yasminelima.dev@gmail.com"> yasminelima.dev@gmail.com</a></address></p>
+<p align="left"><address>📩 <a href="yasminelima.dev@gmail.com"> yasminelima.dev@gmail.com</a></address></p>
 
 <h1 align="left">Stats</h1>
 
