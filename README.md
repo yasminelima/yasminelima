@@ -68,7 +68,8 @@
       </p>
     </td>
     </tr>
-        <tr>
+        <!------ linha 2 ------>
+    <tr>
     <td width="50%" valign="top">
       <h2 align="center">Space Project</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/astronauta-site/"><img src="/Media/Astronauta.png" width="100%" alt="Space Project"/></a><br><br>
@@ -84,7 +85,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-    <!--linha 2-->
     <h2 align="center">Space Project</h2>
       <br>
       <a target="_blank" href="https://yasminelima.github.io/astronauta-site/"><img src="/Media/AluraSite.png" width="100%" alt="Android Project"/></a><br><br>
