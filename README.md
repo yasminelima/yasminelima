@@ -1,4 +1,9 @@
 <html>
+  <style>
+    div {
+      overflow: scroll:
+    }
+  </style>
 <body>
   
   <h1>👤 Profile</h1>
@@ -36,76 +41,78 @@
   
   <h1>💻 Projects </h1>
   
-  <table>
-      <tr>
-      <td width="50%" valign="top">
-        <h2 align="center">Android History</h2><br>
-        <a target="_blank" href="https://yasminelima.github.io/projeto-android/"><img src="/Media/AndroidSite.png" width="100%" alt="Android Project"/></a><br><br>
-        <p>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
-        <p align="left"><strong>Technologies used</strong><br>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
-        </p>
-        <p align="left"><strong>IDE used</strong><br>
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
-        <p align="center">
-        <a href="https://github.com/yasminelima/projeto-android" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>
-        <a href="https://yasminelima.github.io/projeto-android/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-      <h2 align="center">Alura's Barbershop</h2>
-        <br>
-        <a target="_blank" href="https://yasminelima.github.io/site-alura/"><img src="/Media/AluraSite.png" width="100%" alt="Android Project"/></a><br><br>
-        <p>Barbershop themed website design created in the HTML5 and CSS3 courses at Alura</p>
-        <p align="left"><strong>Technologies used</strong><br>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
-        </p>
-        <p align="left"><strong>IDE used</strong><br>
-        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-        </p>
-        <p align="center">
-        <a href="https://github.com/yasminelima/site-alura" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"></a>
-        <a href="https://yasminelima.github.io/site-alura/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"></a>
-        </p>
-      </td>
-      </tr>
-          <!------ linha 2 ------>
-      <tr>
-      <td width="50%" valign="top">
-        <h2 align="center">Space Project</h2><br>
-        <a target="_blank" href="https://yasminelima.github.io/astronauta-site/"><img src="/Media/Astronauta.png" width="100%" alt="Space Project"/></a><br><br>
-        <p>Space themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
-        <p align="left"><strong>Technologies used</strong><br>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
-        </p>
-        <p align="left"><strong>IDE used</strong><br>
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
-        <p align="center">
-        <a href="https://github.com/yasminelima/astronauta-site" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>
-        <a href="https://yasminelima.github.io/astronauta-site/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
-        </p>
-      </td>
-      <td width="50%" valign="top">
-      <h2 align="center">Cordel</h2>
-        <br>
-        <a target="_blank" href="https://yasminelima.github.io/projeto-cordel/"><img src="/Media/Cordel1.png" width="100%" alt="Android Project"/></a><br><br>
-        <p>Cordel themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
-        <p align="left"><strong>Technologies used</strong><br>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
-        </p>
-        <p align="left"><strong>IDE used</strong><br>
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
-        </p>
-        <p align="center">
-        <a href="https://github.com/yasminelima/projeto-cordel" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"></a>
-        <a href="https://yasminelima.github.io/projeto-cordel/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"></a>
-        </p>
-      </td>
-      </tr>
-  </table>
+  <div>
+    <table>
+        <tr>
+        <td width="50%" valign="top">
+          <h2 align="center">Android History</h2><br>
+          <a target="_blank" href="https://yasminelima.github.io/projeto-android/"><img src="/Media/AndroidSite.png" width="100%" alt="Android Project"/></a><br><br>
+          <p>Android themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
+          <p align="left"><strong>Technologies used</strong><br>
+          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
+          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
+          </p>
+          <p align="left"><strong>IDE used</strong><br>
+          <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
+          <p align="center">
+          <a href="https://github.com/yasminelima/projeto-android" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>
+          <a href="https://yasminelima.github.io/projeto-android/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
+          </p>
+        </td>
+        <td width="50%" valign="top">
+        <h2 align="center">Alura's Barbershop</h2>
+          <br>
+          <a target="_blank" href="https://yasminelima.github.io/site-alura/"><img src="/Media/AluraSite.png" width="100%" alt="Android Project"/></a><br><br>
+          <p>Barbershop themed website design created in the HTML5 and CSS3 courses at Alura</p>
+          <p align="left"><strong>Technologies used</strong><br>
+          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
+          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
+          </p>
+          <p align="left"><strong>IDE used</strong><br>
+          <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+          </p>
+          <p align="center">
+          <a href="https://github.com/yasminelima/site-alura" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"></a>
+          <a href="https://yasminelima.github.io/site-alura/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"></a>
+          </p>
+        </td>
+        </tr>
+            <!------ linha 2 ------>
+        <tr>
+        <td width="50%" valign="top">
+          <h2 align="center">Space Project</h2><br>
+          <a target="_blank" href="https://yasminelima.github.io/astronauta-site/"><img src="/Media/Astronauta.png" width="100%" alt="Space Project"/></a><br><br>
+          <p>Space themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
+          <p align="left"><strong>Technologies used</strong><br>
+          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
+          </p>
+          <p align="left"><strong>IDE used</strong><br>
+          <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
+          <p align="center">
+          <a href="https://github.com/yasminelima/astronauta-site" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>
+          <a href="https://yasminelima.github.io/astronauta-site/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
+          </p>
+        </td>
+        <td width="50%" valign="top">
+        <h2 align="center">Cordel</h2>
+          <br>
+          <a target="_blank" href="https://yasminelima.github.io/projeto-cordel/"><img src="/Media/Cordel1.png" width="100%" alt="Android Project"/></a><br><br>
+          <p>Cordel themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
+          <p align="left"><strong>Technologies used</strong><br>
+          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
+          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
+          </p>
+          <p align="left"><strong>IDE used</strong><br>
+          <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
+          </p>
+          <p align="center">
+          <a href="https://github.com/yasminelima/projeto-cordel" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"></a>
+          <a href="https://yasminelima.github.io/projeto-cordel/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"></a>
+          </p>
+        </td>
+        </tr>
+    </table>
+  </div>
   
   <h1>📊 GitHub Stats</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=yasminelima&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false">
