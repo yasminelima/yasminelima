@@ -1,7 +1,7 @@
 <html>
   <style>
     div {
-      overflow: scroll:
+      overflow: scroll;
     }
   </style>
 <body>
