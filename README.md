@@ -88,7 +88,7 @@
     <h2 align="center">Cordel</h2>
       <br>
       <a target="_blank" href="https://yasminelima.github.io/projeto-cordel/"><img src="/Media/Cordel1.png" width="100%" alt="Android Project"/></a><br><br>
-      <p>Cordel themed website design created in the HTML5 and CSS3 courses at at Curso em Vídeo/Estudonauta</p>
+      <p>Cordel themed website design created in the HTML5 and CSS3 courses at Curso em Vídeo/Estudonauta</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"></a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
