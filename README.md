@@ -9,7 +9,7 @@
 - 👔 Lawyer with 6 years of experience.
 
 - 💻 I’m interested in front-end.
-- 🌱 I’m currently learning **HTML,CSS and JS**.
+- 🌱 I’m currently learning **HTML**,**CSS** and **JS**.
 
 <h1>💻 Tech Stack</h1>
 
