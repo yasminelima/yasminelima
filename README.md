@@ -137,7 +137,7 @@
     </tr>
             <!------ linha 4 ------>
     <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h2 align="center">Portfólio</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/portifolio/"><img src="/Media/port.png" width="100%" alt="Space Project"/></a><br><br>
       <p>Personal Portfolio</p>
@@ -152,6 +152,7 @@
       <a href="https://github.com/yasminelima/portifolio" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>  
       <a href="https://yasminelima.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
+      <td>
     </tr>
 </table>
 
