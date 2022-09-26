@@ -136,7 +136,8 @@
     </td>
     </tr>
             <!------ linha 4 ------>
-    <tr width="50%" valign="top">
+    <tr>
+    <td width="50%" valign="top">
       <h2 align="center">Portfólio</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/portifolio/"><img src="/Media/port.png" width="100%" alt="Space Project"/></a><br><br>
       <p>Personal Portfolio</p>
