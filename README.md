@@ -24,11 +24,11 @@
 <h1>📜 Certificates</h1> 
 
 <tr>
-<td width="10%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="10%" alt="Space Project"/>
+<td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="5%" alt="Space Project"/>
 </td>
-<td width="10%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="10%" alt="Space Project"/></td>
-<td width="10%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="10%" alt="Space Project"/></td>
-<td width="10%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="10%" alt="Space Project"/>
+<td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="5%" alt="Space Project"/></td>
+<td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="5%" alt="Space Project"/></td>
+<td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="5%" alt="Space Project"/>
 </td>
 <tr>
 
