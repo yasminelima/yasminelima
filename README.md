@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="30%" alt="Space Project"/></td>
+<td width="5%" valign="top"><a target="_blank" href="https://www.estudonauta.com/validacao-de-certificado/?codigo=1BED-E9AC-7"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="30%" alt="DESENVOLVIMENTO WEB 2020 (HTML5+CSS3): MÓDULO 3 DE 5 [40H]"/></a></td>
 <td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="30%" alt="Space Project"/></td>
 <td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="30%" alt="Space Project"/></td>
 <td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="30%" alt="Space Project"/></td>
