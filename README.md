@@ -41,7 +41,7 @@
     <tr>
       <td width="50%" valign="top">
       <h2 align="center">Portfolio</h2><br>
-      <a target="_blank" href="https://yasminelima.github.io/portifolio/"><img src="/Media/port.png" width="100%" alt="Space Project"/></a><br><br>
+      <a target="_blank" href="https://yasminelima.github.io/portfolio/"><img src="/Media/port.png" width="100%" alt="Portfolio"/></a><br><br>
       <p>Personal Portfolio</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
