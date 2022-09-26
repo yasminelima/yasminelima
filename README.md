@@ -21,14 +21,7 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office"> <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Gsheets">
 
-<h1>📜 Certificates</h1> 
-
-<table>
-<tr>
-<td width="5%" valign="top"><img src="https://media-exp1.licdn.com/dms/image/D4D0BAQHLnqyeZ8iazg/company-logo_100_100/0/1661860557207?e=1672272000&v=beta&t=NE_p3jT7A7YlXktrRkj8yw1OfZH63wwPVhztK8Rm_vg" width="30%" alt="Space Project"/></td>
-</td>
-</tr>
-</table>
+<h1><a href="https://www.linkedin.com/in/yasminelimadev/details/certifications/" target="_blank">📜 Certificates</a></h1> 
 
 <h1>📩 Contact</h1> 
 
