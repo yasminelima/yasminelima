@@ -42,7 +42,7 @@
       <td width="50%" valign="top">
       <h2 align="center">Portfolio</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/portfolio/"><img src="/Media/port.png" width="100%" alt="Portfolio"/></a><br><br>
-      <p>Personal Portfolio.</p>
+      <p align="justify">Personal Portfolio.</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
@@ -58,7 +58,7 @@
       <td width="50%" valign="top">
       <h2 align="center">Login Screen</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/projeto-login/"><img src="/Media/teladelogin.png" width="100%" alt="Tela de Login"/></a><br><br>
-      <p>Login screen project created in the HTML5 and CSS3 courses at Video Course/Studentnaut with responsive design.</p>
+      <p align="justify">Login screen project created in the HTML5 and CSS3 courses at Video Course/Studentnaut with responsive design.</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
