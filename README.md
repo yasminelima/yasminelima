@@ -54,6 +54,10 @@
       <a href="https://github.com/yasminelima/portifolio" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>  
       <a href="https://yasminelima.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
+      </td>
+      </tr>
+      <!------ linha 2 ------>
+      <tr>
       <td width="50%" valign="top">
       <h2 align="center">Media Queries</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/media-queries/"><img src="/Media/Query.png" width="100%" alt="Space Project"/></a><br><br>
@@ -69,9 +73,6 @@
       <a href="https://yasminelima.github.io/media-queries/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
       </td>
-      </tr>
-      <!------ linha 2 ------>
-      <tr>
       <td width="50%" valign="top">
       <h2 align="center">Social Project</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/projeto-social/"><img src="/Media/ProjetoSocial.png" width="100%" alt="Space Project"/></a><br><br>
@@ -86,6 +87,9 @@
       <a href="https://github.com/yasminelima/projeto-social" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>  
       <a href="https://yasminelima.github.io/projeto-social/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
+      </tr>
+            <!------ linha 3 ------>
+      <tr>
       </td>
       <td width="50%" valign="top">
       <h2 align="center">Space Project</h2><br>
@@ -101,9 +105,6 @@
       <a href="https://yasminelima.github.io/astronauta-site/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
       </td>
-      </tr>
-            <!------ linha 3 ------>
-      <tr>
       <td width="50%" valign="top">
       <h2 align="center">Cordel</h2>
       <br>
@@ -121,6 +122,8 @@
       <a href="https://yasminelima.github.io/projeto-cordel/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"></a>
       </p>
     </td>
+    </tr>
+    <tr>
     <td width="50%" valign="top">
       <h2 align="center">Android History</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/projeto-android/"><img src="/Media/AndroidSite.png" width="100%" alt="Android Project"/></a><br><br>
@@ -136,8 +139,6 @@
       <a href="https://yasminelima.github.io/projeto-android/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
     </td>
-    </tr>
-    <tr>
     <td width="50%" valign="top">
     <h2 align="center">Alura's Barbershop</h2>
       <br>
