@@ -53,7 +53,7 @@
     <tr>
       <td width="50%" valign="top">
       <h2 align="center">Site Google Glass</h2><br>
-      <a target="_blank" href="https://yasminelima.github.io/google-glass"><img src="/Media/f36268ce-be8f-47cf-8d38-730fd3b7f59f.gif" width="100%" alt="Portfolio"/></a><br><br>
+      <a target="_blank" href="https://yasminelima.github.io/google-glass" target="_blank"><img src="/Media/f36268ce-be8f-47cf-8d38-730fd3b7f59f.gif" width="100%" alt="Portfolio"/></a><br><br>
       <p align="justify">Google Glass themed website design created in the HTML5, CSS3 e JS courses at Curso em Vídeo.</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
