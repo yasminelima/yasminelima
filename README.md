@@ -39,7 +39,7 @@
 
 <table>
     <tr>
-      <td rowspan=2 width="100%" valign="top">
+      <td rowspan=2 width="50%" valign="top">
       <h2 align="center">Portfolio</h2><br>
       <a target="_blank" href="https://yasminelima.github.io/portfolio/"><img src="/Media/port.png" width="100%" alt="Portfolio"/></a><br><br>
       <p align="justify">Personal Portfolio.</p>
