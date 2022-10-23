@@ -52,9 +52,9 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-      <h2 align="center">Portfolio</h2><br>
-      <a target="_blank" href="https://yasminelima.github.io/portfolio/"><img src="/Media/port.png" width="100%" alt="Portfolio"/></a><br><br>
-      <p align="justify">Personal Portfolio.</p>
+      <h2 align="center">Site Google Glass</h2><br>
+      <a target="_blank" href="https://github.com/yasminelima/google-glass"><img src="/Media/f36268ce-be8f-47cf-8d38-730fd3b7f59f.gif" width="100%" alt="Portfolio"/></a><br><br>
+      <p align="justify">Google Glass themed website design created in the HTML5, CSS3 e JS courses at Curso em Vídeo/Estudonauta.</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
@@ -63,8 +63,8 @@
       <p align="left"><strong>IDE used</strong><br>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></p>
       <p align="center">
-      <a href="https://github.com/yasminelima/portifolio" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>  
-      <a href="https://yasminelima.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
+      <a href="https://github.com/yasminelima/google-glass" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/></a>  
+      <a href="https://yasminelima.github.io/google-glass/" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </p>
       </td>
       <td width="50%" valign="top">
