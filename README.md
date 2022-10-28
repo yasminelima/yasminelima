@@ -55,9 +55,9 @@
     </tr>
     <tr>
       <td colspan=2 width="50%" valign="top">
-      <h2 align="center">Learning</h2><br>
+      <h2 align="center">Right now I'm learning JS through the Estudanauta platform course!🚀</h2><br>
       <a href="https://yasminelima.github.io/JS-ECMAscript-CV-ESN/" target="_blank"><img src="/Media/cursojs.gif" width="100%" alt="Portfolio"/></a><br><br>
-      <p align="justify">Right now I'm learning JS through the Estudanauta platform course! 🚀</p>
+      <p align="justify">Check out the exercises i solved and created!</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
