@@ -70,7 +70,7 @@
       <td width="50%" valign="top">
       <h2 align="center">CSS Flexbox Fundamentals</h2><br>
       <a href="https://yasminelima.github.io/Flexbox/" target="_blank"><img src="/Media/flexbox.png" width="100%" alt="Portfolio"/></a><br><br>
-      <p align="justify">Flexbox learning practice</p>
+      <p align="justify">Exercise flexbox practice.</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
