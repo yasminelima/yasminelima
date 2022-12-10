@@ -53,9 +53,9 @@
       <a href="https://yasminelima.github.io/portfolio" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/></a>
       </td>
       <td width="50%" valign="top">
-      <h2 align="center">Right now I'm learning JS through the Estudanauta platform course!🚀</h2><br>
+      <h2 align="center">Javascript</h2><br>
       <a href="https://yasminelima.github.io/JS-ECMAscript-CV-ESN/" target="_blank"><img src="/Media/JS40.gif" width="100%" alt="Portfolio"/></a><br><br>
-      <p align="justify">Check out the exercises i solved and created!</p>
+      <p align="justify">JavaScript course sponsored by Google, focused in ECMAScript, the standardized version of JS.</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
@@ -70,7 +70,7 @@
       <td width="50%" valign="top">
       <h2 align="center">Flexbox e Grid - Alura</h2><br>
       <a href="https://yasminelima.github.io/css-alura-8h/" target="_blank"><img src="/Media/FLOW.gif" width="100%" alt="CSS"/></a><br><br>
-      <p align="justify">CSS: dispondo elementos com Flexbox e Grid - Alura</p>
+      <p align="justify">CSS: arranging elements with Flexbox and Grid - Alura</p>
       <p align="left"><strong>Technologies used</strong><br>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"> </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"></a>
