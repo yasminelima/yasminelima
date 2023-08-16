@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=yasminelima&label=Profile%20views&color=70A4FC&style=flat" alt="yasminelima" />
 
 
-- 🙋‍♀️ I'm **Yasmine Lima**, 32y, she/her.
+- 🙋‍♀️ I'm **Yasmine Lima**, 33y, she/her.
 - 🌍 Brazilian from Salvador, Bahia. 
 - 👔 Lawyer with 6 years of experience.
 
